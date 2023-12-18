@@ -6,8 +6,8 @@ export default {
     ],
     theme: {
         screens: {
-            'sm':{'min': '271px', 'max': '376px'},
-            'md': {'min': '377px', 'max': '769px'},
+            'sm': { 'min': '271px', 'max': '376px' },
+            'md': { 'min': '377px', 'max': '769px' },
         },
         borderRadius: {
             'button-radius': '2rem'
@@ -91,7 +91,7 @@ export default {
                 'radial_red_pink_hover': 'linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 255, 0.50) 100%), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%)',
                 'radial_blue_pink': 'linear-gradient(#4851FF, #F02AA6)'
             },
-            fontFamily: {}
+            fontFamily: {},
         },
     },
     plugins: [],
