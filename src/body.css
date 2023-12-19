@@ -1,0 +1,35 @@
+.background-body {
+  background: linear-gradient(180deg, #fff 0%, #f0f1ff 100%);
+}
+
+.flex-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: auto;
+  /* background: linear-gradient(180deg, #fff 0%, #f0f1ff 100%); */
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+.flex-box {
+  width: 350px;
+  height: 322px;
+  /* min-width: 350px;
+  min-height: 322px; */
+  margin: 20px;
+}
+
+.border15 {
+  border-radius: 15px;
+}
+
+.flex-box-red {
+  /* width: 350px;
+  height: 322px; */
+  margin: 20px;
+  border-radius: 15px;
+}
